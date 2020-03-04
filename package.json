@@ -1,0 +1,17 @@
+{
+  "name": "scli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "scli": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syswing",
+  "license": "MIT",
+  "dependencies": {
+    "cac": "^6.5.6" 
+  }
+}
